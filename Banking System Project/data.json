@@ -1,0 +1,11 @@
+{
+    "123456": {
+        "account_number": "123456",
+        "password": "2",
+        "balance": 0,
+        "account_type": "Savings",
+        "transactions": [],
+        "loan_balance": 0,
+        "annual_interest_rate": 0.03
+    }
+}
